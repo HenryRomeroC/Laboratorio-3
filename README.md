@@ -84,9 +84,9 @@ Tabla de Resultados
 
 
 
-z
-![image](https://user-images.githubusercontent.com/116819100/206622708-7643efcb-651e-498b-b635-b98f8952d7ba.png)
+Representacion de CORRIENTES
 
+![image](https://user-images.githubusercontent.com/116819100/206623099-f08c4937-a5cc-4a2d-afbe-c64c4132e3ee.png)
 
 
 
