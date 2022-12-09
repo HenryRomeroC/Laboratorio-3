@@ -75,11 +75,9 @@ Representacion de CORRIENTES
 
 
 Tabla de Resultados 
+![image](https://user-images.githubusercontent.com/116819100/206728274-18ee1aad-6b98-4c1a-8d6b-2c802fe1b508.png)
 
 
-
-![nodo 12](https://user-images.githubusercontent.com/116821721/206628123-24bf2f67-49e8-43d1-be32-332547666001.jpg)
-![nodo 3](https://user-images.githubusercontent.com/116821721/206629051-7affc8e7-d333-4aa9-9fc5-562656e7b109.jpg)
 
 
 
@@ -94,6 +92,9 @@ Tabla de Resultados
 
 
 
+
+![nodo 12](https://user-images.githubusercontent.com/116821721/206628123-24bf2f67-49e8-43d1-be32-332547666001.jpg)
+![nodo 3](https://user-images.githubusercontent.com/116821721/206629051-7affc8e7-d333-4aa9-9fc5-562656e7b109.jpg)
 
 
 
