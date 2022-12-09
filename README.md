@@ -86,7 +86,6 @@ Tabla de Resultados
 
 -------------------------------------------------------------------
 
-**1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
 
