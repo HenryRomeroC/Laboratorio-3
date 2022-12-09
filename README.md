@@ -124,7 +124,7 @@ Representacion de CORRIENTES
 
 **1.7 CONCLUSIONES**
 
-En conclución así como en el desarrollo del método de mallas se puede dislimbrar que los procesos para analizar los circuitos por nodos determinan de manera exacta las corrientes y voltajes que atraviezan este cumpliendo las leyes expuestas por Kirchoff, por medio de la practica se logro comprobar la utilidad y veracidad de estas leyes en su totalidad conforme a lo estudiado de manera teorica en clase.
+En conclusión así como en el desarrollo del método de mallas se puede dislimbrar que los procesos para analizar los circuitos por nodos determinan de manera exacta las corrientes y voltajes que atraviezan este cumpliendo las leyes expuestas por Kirchoff, por medio de la practica se logro comprobar la utilidad y veracidad de estas leyes en su totalidad conforme a lo estudiado de manera teorica en clase.
 
 -------------------------------------------------------
 
