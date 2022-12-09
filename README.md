@@ -32,7 +32,7 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 ------------------------------------------------------------
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
-MATERIALES Y EQUIPOS
+**MATERIALES Y EQUIPOS**
 
 
 
@@ -46,14 +46,14 @@ MATERIALES Y EQUIPOS
 
 
 
-Procedimiento
+**Procedimiento**
 
 ![image](https://user-images.githubusercontent.com/116819100/206618414-32f7db89-557f-47f2-9cdc-29c3e9855ad3.png)
 
 
 
 
-*Simulacion En Tinckercad* 
+**Simulacion En Tinckercad* *
 
 ![image](https://user-images.githubusercontent.com/116819100/206619425-d6a2cd3d-b287-45f4-9d42-08b991c834c5.png)
 
@@ -61,7 +61,7 @@ Procedimiento
 
 
 
-*Simulacion En Proteus* 
+**Simulacion En Proteus**
 
 
 
@@ -71,7 +71,9 @@ Procedimiento
 
 
 
-Tabla de Resultados 
+**Tabla de Resultados**
+
+![image](https://user-images.githubusercontent.com/116819100/206625522-64da6a53-8ae4-452d-99f8-ee498952b516.png)
 
 
 
