@@ -32,7 +32,7 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 ------------------------------------------------------------
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
-**MATERIALES Y EQUIPOS**
+MATERIALES Y EQUIPOS
 
 
 
@@ -46,14 +46,17 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 
 
 
-**Procedimiento**
+Procedimiento
 
 ![image](https://user-images.githubusercontent.com/116819100/206618414-32f7db89-557f-47f2-9cdc-29c3e9855ad3.png)
 
 
+Representacion de CORRIENTES
+
+![image](https://user-images.githubusercontent.com/116819100/206623099-f08c4937-a5cc-4a2d-afbe-c64c4132e3ee.png)
 
 
-**Simulacion En Tinckercad* *
+*Simulacion En Tinckercad* 
 
 ![image](https://user-images.githubusercontent.com/116819100/206619425-d6a2cd3d-b287-45f4-9d42-08b991c834c5.png)
 
@@ -61,7 +64,7 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 
 
 
-**Simulacion En Proteus**
+*Simulacion En Proteus* 
 
 
 
@@ -71,12 +74,12 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 
 
 
-**Tabla de Resultados**
-
-![image](https://user-images.githubusercontent.com/116819100/206625522-64da6a53-8ae4-452d-99f8-ee498952b516.png)
+Tabla de Resultados 
 
 
 
+![nodo 12](https://user-images.githubusercontent.com/116821721/206628123-24bf2f67-49e8-43d1-be32-332547666001.jpg)
+![nodo 3](https://user-images.githubusercontent.com/116821721/206629051-7affc8e7-d333-4aa9-9fc5-562656e7b109.jpg)
 
 
 
@@ -87,9 +90,8 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 
 
 
-Representacion de CORRIENTES
 
-![image](https://user-images.githubusercontent.com/116819100/206623099-f08c4937-a5cc-4a2d-afbe-c64c4132e3ee.png)
+
 
 
 
