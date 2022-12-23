@@ -12,8 +12,7 @@ II) Distinguir las distintas polaridades y direcciones de corriente presentes en
 
 --------------------------------------------------------------
 **1.3 MARCO TEÓRICO**
-
-![image](https://user-images.githubusercontent.com/116821721/206623303-0e2b2fac-a9d3-4c66-b963-c7acaaf04367.png)
+![image](https://user-images.githubusercontent.com/116819100/209353521-ef70d497-e451-4427-bb13-feba65d72d9f.png)
 
 
 
