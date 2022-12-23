@@ -2,31 +2,17 @@
 
 **1.OBJETIVO GENERAL**
 
-Analizar los tipos de nodos existentes en un circuito y su importancia a la hora del calculo de voltajes y corrientes.
+Estudiar el concepto del método de superpocición de circuitos y sus implicaciones paractica por medio de un sistema simulado, esquematico y analítico de un curcuito con mas de una fuente y varios componentes pasivos.
+
 
 **1.2 OBJETIVOS ESPECIFICOS**
 
-I) Utilizar la ley de corrientes de Kirchhoff para la práctica de análisis de nodos.
+Construir un circuito y medir los voltajes generados al tomar en cuenta una fuente como si esta se encontrase en corto circuito.
 
-II) Distinguir las distintas polaridades y direcciones de corriente presentes en un circuito.
-
+Medir tanto voltaje como corriente en los casos necesarios y comparar los resultados tanto analiticos como paracticos de la practica.
 --------------------------------------------------------------
 **1.3 MARCO TEÓRICO**
 ![image](https://user-images.githubusercontent.com/116819100/209353521-ef70d497-e451-4427-bb13-feba65d72d9f.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ------------------------------------------------------------
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
